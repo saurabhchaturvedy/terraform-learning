@@ -1,1 +1,3 @@
-this is a merge test ls 
+this is a mergetool test ls 
+india mexico japan
+atte technoligies
